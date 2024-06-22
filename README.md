@@ -1,1 +1,1 @@
-# Leanings-
+# LEARNINGS-
