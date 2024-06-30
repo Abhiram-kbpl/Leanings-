@@ -1,4 +1,5 @@
 LEARNING JAVA PROGRAMME
 <br><br>
-This is my  first repo
-aouther abhiram t 
+This is my  first  git repository
+
+Author : abhiram t 
